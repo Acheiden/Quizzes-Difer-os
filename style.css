@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(235, 218, 148);
+    color: black;
+    text-align: center;
+}
+
+.login {
+    width: 33%;
+    margin-left: 33%;
+    font-weight: bolder;
+}
+
+button {
+    background-color: rgb(247, 240, 113);
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+button:hover {
+    background-color: black;
+    color: rgb(247, 240, 113);
+}
